@@ -1,0 +1,34 @@
+1.start git bash and write following commands to push data into githu
+ 
+1* cofigure he name and email i.e
+git config --global user.name"username"
+git config --global user.email"emailadress.com
+
+
+2*create a folder or text document .
+
+3*create a new ocal repository 
+git init 
+
+4*add files 
+git add
+ 
+5*
+create new repository in github
+
+6* pass the github clone to git using command
+git clone (pas clone)
+
+7*commit
+git commit -m "commit message"
+
+8* status
+git status
+
+9* to upload repository to gihub
+git push -u origin master 
+
+10*now check in github
+
+11*status
+git status
